@@ -1,0 +1,3 @@
+
+rootProject.name = "BackAppX-gradle"
+
