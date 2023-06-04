@@ -1,7 +1,7 @@
 ## Backappx-Package
 
 <BR>
-BackAppX-Package is a Kotlin Gradle library for the BackAppX platform.
+BackAppX-Gradle is a Kotlin Gradle library for the BackAppX platform.
 
 Getting started
 This package is currently under development. Please use it at your own risk.
